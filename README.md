@@ -1,2 +1,1 @@
-# grid
-Grid widgets for web
+# Grid widgets for web
